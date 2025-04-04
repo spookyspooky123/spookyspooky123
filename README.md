@@ -3,13 +3,14 @@
 <h1 align="center">Hi 👋, I'm Spooky</h1>
 <h3 align="center">A passionate AI engineer from United States</h3>
 
+<p>Hey there! I’m passionate about biopic films and love learning from real-life stories. With strong leadership skills, I thrive in collaborative environments and enjoy taking initiative on projects. Right now, I’m working on building my portfolio to showcase my skills and projects. I’m actively looking for a summer internship where I can grow, contribute, and gain hands-on experience. Feel free to connect with me!</p>
+
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Python and Backend Development**
 
 - ⚡ Fun fact **I am still in high school**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
